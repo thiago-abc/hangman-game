@@ -48,8 +48,7 @@ def hangman_game():
     
     print(palavra_suprimida)
     letras_ausentes = []
-    print(palavra_secreta)
-
+    
     tentativas = 3
     
     while tentativas >= 0:
